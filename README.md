@@ -19,7 +19,7 @@ Que tal reproduzir a tela do filme Matrix no Excel?
 
  – Uma melhoria foi pintar o último caractere de branco
 
-Para download, usar o link: https://1drv.ms/x/s!Aumr1P3FaK7joDZw0SVX0hktLsYV
+
 
 Ainda não está tão legal quanto no filme, mas Neo, estou chegando lá!
 
